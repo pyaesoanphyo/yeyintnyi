@@ -1,4 +1,3 @@
-
 import { Mail, MapPin, GraduationCap, TrendingUp, Languages, Calculator, Brain, Briefcase, Users, BookOpen, Cherry } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -82,7 +81,7 @@ const Index = () => {
                 <div className="flex items-center justify-center lg:justify-start gap-3 mb-4">
                   <span className="text-2xl lg:text-3xl text-red-600 font-light">aka</span>
                   <span className="text-3xl lg:text-4xl font-semibold bg-gradient-to-r from-red-600 to-orange-600 bg-clip-text text-transparent">
-                    Jamesi
+                    James
                   </span>
                   <Cherry className="w-8 h-8 text-red-500 animate-pulse" />
                 </div>
@@ -308,7 +307,7 @@ const Index = () => {
           <div className="flex items-center justify-center gap-3 mb-4">
             <Cherry className="w-6 h-6 text-red-500" />
             <span className="text-xl font-semibold bg-gradient-to-r from-red-400 to-orange-400 bg-clip-text text-transparent">
-              Ye Yint Ny (Jamesi)
+              Ye Yint Ny (James)
             </span>
             <Cherry className="w-6 h-6 text-red-500" />
           </div>
