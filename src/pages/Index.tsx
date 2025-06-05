@@ -53,7 +53,7 @@ const Index = () => {
             <div className="flex items-center gap-3">
               <Cherry className="w-6 h-6 text-red-500" />
               <h1 className="text-xl font-bold bg-gradient-to-r from-red-600 to-orange-600 bg-clip-text text-transparent">
-                Ye Yint Ny
+                Ye Yint Nyi
               </h1>
             </div>
             <div className="hidden md:flex space-x-8">
@@ -75,7 +75,7 @@ const Index = () => {
               <div className="mb-6">
                 <h1 className="text-6xl lg:text-7xl font-bold mb-4 animate-fade-in">
                   <span className="bg-gradient-to-r from-gray-900 via-red-700 to-orange-700 bg-clip-text text-transparent">
-                    Ye Yint Ny
+                    Ye Yint Nyi
                   </span>
                 </h1>
                 <div className="flex items-center justify-center lg:justify-start gap-3 mb-4">
@@ -307,7 +307,7 @@ const Index = () => {
           <div className="flex items-center justify-center gap-3 mb-4">
             <Cherry className="w-6 h-6 text-red-500" />
             <span className="text-xl font-semibold bg-gradient-to-r from-red-400 to-orange-400 bg-clip-text text-transparent">
-              Ye Yint Ny (James)
+              Ye Yint Nyi (James)
             </span>
             <Cherry className="w-6 h-6 text-red-500" />
           </div>
