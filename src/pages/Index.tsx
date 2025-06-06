@@ -1,3 +1,4 @@
+
 import { Mail, MapPin, GraduationCap, TrendingUp, Languages, Calculator, Brain, Briefcase, Users, BookOpen, Cherry } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -117,8 +118,8 @@ const Index = () => {
                 <div className="absolute -inset-4 bg-gradient-to-r from-red-400 via-orange-400 to-yellow-400 rounded-full blur-lg opacity-30 animate-pulse"></div>
                 <div className="relative w-80 h-80 rounded-full bg-gradient-to-br from-red-400 via-orange-500 to-yellow-500 p-2 shadow-2xl">
                   <img 
-                    src="/lovable-uploads/fa54e239-c2e5-4ba4-b4bd-ba6f3ec4d729.png" 
-                    alt="Ye Yint Ny" 
+                    src="/lovable-uploads/0e792f02-f354-48ab-8df2-332d7a6df7db.png" 
+                    alt="Ye Yint Nyi" 
                     className="w-full h-full object-cover rounded-full border-4 border-white shadow-inner"
                   />
                 </div>
